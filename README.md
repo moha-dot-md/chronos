@@ -9,8 +9,10 @@
 </p>
 
 <p align="center">
+ <a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html">
   <img src="https://img.shields.io/badge/Java-17-green?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21">
-  <a href="https://github.com/OWNER/REPO/blob/main/LICENSE">
+ </a>
+  <a href="https://choosealicense.com/fr/licenses/mit/">
     <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT License">
   </a>
 </p>
