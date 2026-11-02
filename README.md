@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/build-unknown-lightgrey?style=for-the-badge" alt="Build status">
-  <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21">
+  <img src="https://img.shields.io/badge/Java-17-green?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21">
   <a href="https://github.com/OWNER/REPO/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT License">
   </a>
