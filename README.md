@@ -31,6 +31,9 @@
 Chronos is a project focused on mastering Java fundamentals, concurrency, thread management, and software architecture by building a reusable scheduling library from scratch.
 
 ---
+### Fun Fact
+
+The Chronos logo features a polar bear, inspired by hibernation: the idea of resting, waiting for the right moment, and waking up when it's time to act. A small nod to what Chronos is all about: time and scheduling.
 
 <p align="center">
   <i>Built with Java. Designed around time.</i>
