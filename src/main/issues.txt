@@ -1,0 +1,11 @@
+ISSUES
+
+
+
+[Job class]
+1. The Job class has two different responabilities
+   It does describe the job and expose the run() method
+
+2. The validation inside the run() function is not good
+because if a Job cannot be executed we return null which is a not good return
+

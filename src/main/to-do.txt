@@ -1,0 +1,8 @@
+
+
+TO-DO :
+
+1- Use the butterfly encryption method to encrypt the bytes
+2- Constitute a library about chronos
+
+The goal is to create a task scheduler and executor.
