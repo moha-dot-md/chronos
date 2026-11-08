@@ -7,3 +7,13 @@
 2026-10-05 14:00:22.389: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-10-05 14:00:22.389: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-10-05 14:00:29.950: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-06 09:44:58.065: [INFO] CurrentProfilePath: C:\Users\PC-TCM\chronos\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-06 09:44:58.065: [INFO] Profiles total count: 1
+2026-11-06 09:44:58.065: [INFO] Profile: name=Profile 1 path=C:\Users\PC-TCM\chronos\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-05T14:00:27.615Z
+2026-11-06 09:44:58.065: [INFO] LastUsedProfileDir: C:\Users\PC-TCM\chronos\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-06 09:44:58.065: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\PC-TCM\chronos\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-05T14:00:27.615Z
+2026-11-06 09:44:58.065: [INFO] OnDoneLoading sync enabled: 0
+2026-11-06 09:44:58.065: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-06 09:44:58.065: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-06 09:44:58.065: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-06 09:45:31.994: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
