@@ -12,7 +12,7 @@
  <a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html">
   <img src="https://img.shields.io/badge/Java-17-green?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21">
  </a>
-  <a href="https://github.com/moha-dot-md/chronos/blob/main/LICENCE">
+  <a href="https://github.com/moha-dot-md/chronos/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT License">
   </a>
 </p>
